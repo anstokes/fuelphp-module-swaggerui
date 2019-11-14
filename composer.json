@@ -1,0 +1,16 @@
+{
+	"name": "anstech/example",
+	"description" : "FuelPHP 1.x Example Module",
+	"type": "fuel-module",
+	"homepage": "https://anstech.co.uk",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Adrian Stokes",
+			"email": "adrian@anstech.co.uk"
+		}
+	],
+	"require": {
+		"composer/installers": "~1.0",
+	}
+}
