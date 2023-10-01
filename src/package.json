@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "swagger-ui-dist": "^5.8.0"
+  },
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "scripts": {
+    "build": "webpack"
+  }
+}
